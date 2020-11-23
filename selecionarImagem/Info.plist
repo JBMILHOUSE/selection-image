@@ -65,5 +65,9 @@
 	</array>
 	<key>Privacy -  Photo Libery Usage Description</key>
 	<string>Selecione uma imagem</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>O aplicativo deseja sua localização</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Usando sua localizacao</string>
 </dict>
 </plist>
